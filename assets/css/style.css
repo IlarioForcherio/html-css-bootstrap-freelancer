@@ -1,0 +1,13 @@
+.navbar-collapse{
+    flex-grow: 0;
+}
+
+.sec1-bc{
+    background-color: #2fbc9c;
+}
+.sec1 img{
+    width: 50%;
+}
+.line{
+    border: 1px solid white;
+}
