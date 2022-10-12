@@ -46,3 +46,12 @@ input, textarea{
     border-bottom: 0.5px solid lightgray;
 }
 
+.footer-icon{
+    border:2px solid white;
+    border-radius: 50%;
+    padding: 5px;
+    text-align: center;
+
+
+}
+
